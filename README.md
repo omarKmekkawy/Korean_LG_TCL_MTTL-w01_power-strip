@@ -3,7 +3,14 @@ Reverse Engineering The Korean LG TCL MTTL-w01 power-strip
 
 # Product Information
 
-Product Badge:
+Product's image:
+<p align="center">
+  <img width="100%" height="100%" src="./Pictures/LG-MTTL-W01.jpg">
+</p>
+
+I got the Product's image from this [website](https://www.trend-pc.com/product/%D9%85%D8%B4%D8%AA%D8%B1%D9%83-lg-mttl-w01/)
+
+Product's Badge:
 <p align="center">
   <img width="50%" height="50%" src="./Pictures/Product-Badge.jpg">
 </p>
