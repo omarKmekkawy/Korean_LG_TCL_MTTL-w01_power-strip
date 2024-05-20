@@ -39,3 +39,8 @@ You should have the following tools:
 * USB to Serial Converter.
 
 # Introduction
+This power strip is well known here in Egypt; it costs around 400 EGPs. It's well designed and has good components inside. It has a dual-pole latching relay for each outlet, a current measurement AFE for each output, push buttons for controlling each output, and status LEDs for each outlet too. This power strip is controlled by a mobile application through WiFi. Unfortunately, the IOT smart function only works in Korea, and the only available function is to control the outlets using the push buttons.
+
+This power strip has dual USB outlets for charging various devices.
+
+My target here is to find a way to enable this WiFi IOT function even if we rewrite its firmware again. We will go through various steps to reach our goal.
