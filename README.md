@@ -44,3 +44,14 @@ This power strip is well known here in Egypt; it costs around 400 EGPs. It's wel
 This power strip has dual USB outlets for charging various devices.
 
 My target here is to find a way to enable this WiFi IOT function even if we rewrite its firmware again. We will go through various steps to reach our goal.
+
+# Our plan
+* Trying to identify all ICs on all PCBs.
+* Trying to find all useful test points.
+* Mapping all test points to the GPIOs.
+* Mapping all test points to all hardware devices on PCBs.
+* Drawing a block diagram with all identified test points for all communication busses.
+* Trying to dump the firmware.
+* Reverse Engineering the dumped firmware.
+* Sniffing all communication busses.
+* Rewriting the FW again.
