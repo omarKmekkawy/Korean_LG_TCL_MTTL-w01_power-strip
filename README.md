@@ -58,4 +58,5 @@ My target here is to find a way to enable this WiFi IOT function even if we rewr
 
 
 # Resources & References
-* [Some Identified ICs](https://www.reddit.com/r/AskElectronics/comments/1mqcf0a/bjy3_chip_identification_and_documentation/)
+* [Some Identified ICs](https://www.reddit.com/r/AskElectronics/comments/1mqcf0a/bjy3_chip_identification_and_documentation
+* [Register definitions for energy metering ICs](https://github.com/analogdevicesinc/energy-ade-registers)
