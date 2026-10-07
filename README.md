@@ -55,3 +55,7 @@ My target here is to find a way to enable this WiFi IOT function even if we rewr
 * Reverse Engineering the dumped firmware.
 * Sniffing all communication busses.
 * Rewriting the FW again.
+
+
+# Resources & References
+* [Some Identified ICs](https://www.reddit.com/r/AskElectronics/comments/1mqcf0a/bjy3_chip_identification_and_documentation/)
